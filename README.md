@@ -1,1 +1,1 @@
-# weather-vite
+# weather
